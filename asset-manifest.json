@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kasiaurangabad/drt-website.git/static/css/main.d46417a4.css",
-    "main.js": "/kasiaurangabad/drt-website.git/static/js/main.17e431bb.js",
-    "static/js/488.c3afff20.chunk.js": "/kasiaurangabad/drt-website.git/static/js/488.c3afff20.chunk.js",
-    "index.html": "/kasiaurangabad/drt-website.git/index.html",
-    "main.d46417a4.css.map": "/kasiaurangabad/drt-website.git/static/css/main.d46417a4.css.map",
-    "main.17e431bb.js.map": "/kasiaurangabad/drt-website.git/static/js/main.17e431bb.js.map",
-    "488.c3afff20.chunk.js.map": "/kasiaurangabad/drt-website.git/static/js/488.c3afff20.chunk.js.map"
+    "main.css": "/drt-website/static/css/main.d46417a4.css",
+    "main.js": "/drt-website/static/js/main.f68ddcdb.js",
+    "static/js/488.c3afff20.chunk.js": "/drt-website/static/js/488.c3afff20.chunk.js",
+    "index.html": "/drt-website/index.html",
+    "main.d46417a4.css.map": "/drt-website/static/css/main.d46417a4.css.map",
+    "main.f68ddcdb.js.map": "/drt-website/static/js/main.f68ddcdb.js.map",
+    "488.c3afff20.chunk.js.map": "/drt-website/static/js/488.c3afff20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d46417a4.css",
-    "static/js/main.17e431bb.js"
+    "static/js/main.f68ddcdb.js"
   ]
 }
